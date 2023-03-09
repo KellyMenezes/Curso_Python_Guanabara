@@ -1,2 +1,3 @@
 # Curso_Python_Guanabara
- Curso de python de Curso em video!!!
+Aqui contém exercicios de programção do curso em video de python 
+Site: https://www.cursoemvideo.com/

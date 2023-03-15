@@ -1,3 +1,2 @@
-#                                                                                                                         : Hello World no seu terminal
+# Exiba 
 print("Hello world")
-                                                        

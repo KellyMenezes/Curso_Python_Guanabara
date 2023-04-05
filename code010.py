@@ -3,4 +3,3 @@ carteira_dinheiro = float(input("Digite quanto dinheiro você tem na carteira(Di
 dolar = 5.09
 comprar = carteira_dinheiro/dolar
 print(f"Parabéns você pode comprar US$ {comprar:.2f} .")
-
